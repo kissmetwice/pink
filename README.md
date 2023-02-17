@@ -1,3 +1,2 @@
 # pink
-web1
-paginas que eu criei
+paginas que eu fiz no if (3 semestre)
