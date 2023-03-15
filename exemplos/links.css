@@ -1,0 +1,16 @@
+h2,h4{
+    color: hotpink;
+}
+
+a:link{
+    color:hotpink
+}
+a:visited{
+    color:lightpink;
+}
+a:hover{
+    color:deeppink;
+}
+span{
+    color:hotpink;
+}
