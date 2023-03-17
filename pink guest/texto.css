@@ -1,0 +1,9 @@
+principal{
+	table-layout:unset;
+	border: 5pt deeppink;
+	box-sizing: border-box;
+}
+
+c1{
+	color: hotpink;
+}
